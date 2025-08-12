@@ -1,0 +1,132 @@
+{
+  "origin": "local",
+  "type": "response",
+  "correlation": "f5c07fbb36759ca8",
+  "duration": 1878,
+  "protocol": "HTTP/1.1",
+  "status": 200,
+  "headers": {
+    "Vary": [
+      "Origin",
+      "Access-Control-Request-Method",
+      "Access-Control-Request-Headers"
+    ]
+  },
+  "body": {
+    "result": "a",
+    "personList": [
+      {
+        "personId": "002",
+        "name": "å°ç",
+        "age": 18,
+        "birth": 949334400000,
+        "sex": "2",
+        "salary": 1800.0,
+        "description": "å°çdesc",
+        "refTimestampZone": 1730389068600,
+        "createUser": "user001",
+        "createDate": 1730561899280,
+        "updateUser": "user001",
+        "updateDate": 1730561999758,
+        "isActive": true,
+        "isDelete": false
+      },
+      {
+        "personId": "003",
+        "name": "å°å®",
+        "age": 23,
+        "birth": 949334400000,
+        "sex": "1",
+        "salary": 2000.89,
+        "description": "å°å®desc",
+        "refTimestampZone": 1730389068600,
+        "createUser": "user001",
+        "createDate": 1730561899280,
+        "updateUser": "user001",
+        "updateDate": 1730561999758,
+        "isActive": true,
+        "isDelete": false
+      },
+      {
+        "personId": "005",
+        "name": "å°ç",
+        "age": 10,
+        "birth": 1732896000000,
+        "sex": "1",
+        "salary": 0.0,
+        "description": "string",
+        "refTimestampZone": 1732947889734,
+        "createUser": "user001",
+        "createDate": 1732947889734,
+        "updateUser": "user001",
+        "updateDate": 1732947889734,
+        "isActive": true,
+        "isDelete": false
+      },
+      {
+        "personId": "006",
+        "name": "å°ç",
+        "age": 10,
+        "birth": 1732896000000,
+        "sex": "1",
+        "salary": 0.0,
+        "description": "string",
+        "refTimestampZone": 1732947889734,
+        "createUser": "user001",
+        "createDate": 1732947889734,
+        "updateUser": "user001",
+        "updateDate": 1732947889734,
+        "isActive": true,
+        "isDelete": false
+      },
+      {
+        "personId": "001",
+        "name": "å°æ",
+        "age": 102,
+        "birth": 949334400000,
+        "sex": "1",
+        "salary": 1500.05,
+        "description": "å°ædesc",
+        "refTimestampZone": 1730389068600,
+        "createUser": "user001",
+        "createDate": 1730561899280,
+        "updateUser": "user001",
+        "updateDate": 1730561999758,
+        "isActive": true,
+        "isDelete": false
+      },
+      {
+        "personId": "007",
+        "name": "å°æ",
+        "age": 7,
+        "birth": 1743955200000,
+        "sex": "1",
+        "salary": null,
+        "description": null,
+        "refTimestampZone": null,
+        "createUser": null,
+        "createDate": null,
+        "updateUser": null,
+        "updateDate": null,
+        "isActive": null,
+        "isDelete": null
+      },
+      {
+        "personId": "008",
+        "name": "å°æ",
+        "age": 8,
+        "birth": 1743955200000,
+        "sex": "1",
+        "salary": null,
+        "description": null,
+        "refTimestampZone": null,
+        "createUser": null,
+        "createDate": null,
+        "updateUser": null,
+        "updateDate": null,
+        "isActive": null,
+        "isDelete": null
+      }
+    ]
+  }
+}

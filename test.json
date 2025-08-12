@@ -1,0 +1,15 @@
+{
+  "sec-fetch-mode": "cors",
+  "referer": "http://localhost:8080/demo/swagger-ui/index.html",
+  "sec-fetch-site": "same-origin",
+  "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,ja;q=0.5,vi;q=0.4,zh-TW;q=0.3",
+  "accept": "*/*",
+  "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"Microsoft Edge\";v=\"139\", \"Chromium\";v=\"139\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"Windows\"",
+  "host": "localhost:8080",
+  "connection": "keep-alive",
+  "accept-encoding": "gzip, deflate, br, zstd",
+  "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0",
+  "sec-fetch-dest": "empty"
+}
